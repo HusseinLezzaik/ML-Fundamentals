@@ -26,5 +26,6 @@
 - [Image Kernels](https://setosa.io/ev/image-kernels/)
 - [Distill](https://distill.pub)
 - [Making Deep Learning go Brrr from First Principles](https://horace.io/brrr_intro.html)
+- [Circuits in NNs, OpenAI](https://distill.pub/2020/circuits/zoom-in/)
 
 For more, look into starred repos on my profile ;) 
