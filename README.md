@@ -27,5 +27,6 @@
 - [Distill](https://distill.pub)
 - [Making Deep Learning go Brrr from First Principles](https://horace.io/brrr_intro.html)
 - [Circuits in NNs, OpenAI](https://distill.pub/2020/circuits/zoom-in/)
+- [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 
 For more, look into starred repos on my profile ;) 
