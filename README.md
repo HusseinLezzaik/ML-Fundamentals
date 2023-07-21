@@ -29,5 +29,6 @@
 - [Circuits in NNs, OpenAI](https://distill.pub/2020/circuits/zoom-in/)
 - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Diffusion Models from Scratch](https://www.tonyduan.com/diffusion.html)
+- [Perspectives on Diffusion](https://sander.ai/2023/07/20/perspectives.html)
 
 For more, look into starred repos on my profile ;) 
