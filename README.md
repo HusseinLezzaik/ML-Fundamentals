@@ -30,5 +30,6 @@
 - [Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Diffusion Models from Scratch](https://www.tonyduan.com/diffusion.html)
 - [Perspectives on Diffusion](https://sander.ai/2023/07/20/perspectives.html)
+- [The Matrix Calculus You Need For Deep Learning, Jeremy Howard](https://explained.ai/matrix-calculus/index.html)
 
 For more, look into starred repos on my profile ;) 
