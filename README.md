@@ -32,5 +32,6 @@
 - [Perspectives on Diffusion](https://sander.ai/2023/07/20/perspectives.html)
 - [The Matrix Calculus You Need For Deep Learning, Jeremy Howard](https://explained.ai/matrix-calculus/index.html)
 - [Attention is Off By One, Evan Miller](https://www.evanmiller.org/attention-is-off-by-one.html)
+- [RWKV Explained](https://fullstackdeeplearning.com/blog/posts/rwkv-explainer/)
 
 For more, look into starred repos on my profile ;) 
