@@ -34,5 +34,8 @@
 - [Attention is Off By One, Evan Miller](https://www.evanmiller.org/attention-is-off-by-one.html)
 - [RWKV Explained](https://fullstackdeeplearning.com/blog/posts/rwkv-explainer/)
 - [The Hardware Lottery, Sarah Hooker](https://hardwarelottery.github.io/)
+- [Recurrent Neural Networks, Stanford CS-230](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
+- [Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)
 
 For more, look into starred repos on my profile ;) 
