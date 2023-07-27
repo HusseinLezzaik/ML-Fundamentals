@@ -33,5 +33,6 @@
 - [The Matrix Calculus You Need For Deep Learning, Jeremy Howard](https://explained.ai/matrix-calculus/index.html)
 - [Attention is Off By One, Evan Miller](https://www.evanmiller.org/attention-is-off-by-one.html)
 - [RWKV Explained](https://fullstackdeeplearning.com/blog/posts/rwkv-explainer/)
+- [The Hardware Lottery, Sarah Hooker](https://hardwarelottery.github.io/)
 
 For more, look into starred repos on my profile ;) 
