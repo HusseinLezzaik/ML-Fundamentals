@@ -40,5 +40,7 @@
 - [No SRAM Scaling Implies on More Expensive CPUs and GPUs - TSMC](https://www.tomshardware.com/news/no-sram-scaling-implies-on-more-expensive-cpus-and-gpus)
 - [Optimizing LLM Latency, Hamel Husain](https://hamel.dev/notes/llm/03_inference.html)
 - [SLURM Survival Guide](https://radekosmulski.com/slurm-survival-guide/)
+- [LLM Training, Replit](https://blog.replit.com/llm-training)
+- [RLHF, Chip Huyen](https://huyenchip.com/2023/05/02/rlhf.html)
 
 For more, look into starred repos on my profile ;) 
