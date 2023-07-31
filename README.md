@@ -38,5 +38,7 @@
 - [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://hazyresearch.stanford.edu/blog/2023-03-07-hyena)
 - [Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)
 - [No SRAM Scaling Implies on More Expensive CPUs and GPUs - TSMC](https://www.tomshardware.com/news/no-sram-scaling-implies-on-more-expensive-cpus-and-gpus)
+- [Optimizing LLM Latency, Hamel Husain](https://hamel.dev/notes/llm/03_inference.html)
+- [SLURM Survival Guide](https://radekosmulski.com/slurm-survival-guide/)
 
 For more, look into starred repos on my profile ;) 
